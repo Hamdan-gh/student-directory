@@ -247,20 +247,6 @@ onClick={() => toggleActive(id)}
 4. **Code Quality**: Readable, maintainable, and well-commented code
 5. **Functionality**: All requirements met with additional polish
 
----
-
-## 📝 Potential Questions & Answers
-
-**Q: Why did you use functional components instead of class components?**
-A: Functional components with hooks are the modern React standard. They're simpler, more readable, and perform better.
-
-**Q: How would you add a new student?**
-A: I would add a form component that calls a function to update the students array with a new student object.
-
-**Q: Why did you use CSS Grid for the layout?**
-A: CSS Grid provides flexible, responsive layouts that automatically adjust to different screen sizes without media queries for basic responsiveness.
-
-**Q: How does the toggle function work?**
 A: It uses the map method to create a new array, finds the student by ID, and returns a new object with the isActive property flipped using the spread operator.
 
 This guide should help you confidently present and explain your Student Profile Directory application! 🎯
