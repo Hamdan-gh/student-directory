@@ -209,4 +209,3 @@ onClick={() => toggleActive(id)}
 
 ---
 
-This guide should help you confidently present and explain your Student Profile Directory application! 🎯
