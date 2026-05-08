@@ -9,7 +9,7 @@ function App() {
   const [students, setStudents] = useState([
     {
       id: 1,
-      name: "Amina",
+      name: "Abdul Hafiz",
       track: "Frontend Development",
       bio: "Learning React and building interfaces",
       skillLevel: "Beginner",
@@ -17,7 +17,7 @@ function App() {
     },
     {
       id: 2,
-      name: "Kofi",
+      name: "Hamdan",
       track: "Backend Development",
       bio: "Working with APIs and databases",
       skillLevel: "Intermediate",
@@ -25,7 +25,7 @@ function App() {
     },
     {
       id: 3,
-      name: "Sarah",
+      name: "Tiisu",
       track: "Full Stack Development",
       bio: "Building complete web applications from frontend to backend",
       skillLevel: "Advanced",
@@ -33,7 +33,7 @@ function App() {
     },
     {
       id: 4,
-      name: "Michael",
+      name: "Sharrif",
       track: "Data Science",
       bio: "Analyzing data and building machine learning models",
       skillLevel: "Intermediate",
@@ -41,7 +41,7 @@ function App() {
     },
     {
       id: 5,
-      name: "Fatima",
+      name: "Okaha",
       track: "Mobile Development",
       bio: "Creating mobile apps for iOS and Android platforms",
       skillLevel: "Beginner",
@@ -49,7 +49,7 @@ function App() {
     },
     {
       id: 6,
-      name: "David",
+      name: "Kamil",
       track: "DevOps Engineering",
       bio: "Managing cloud infrastructure and deployment pipelines",
       skillLevel: "Advanced",
